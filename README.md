@@ -34,11 +34,21 @@ Each .ipynb file in each category will process the raw data sets in the data-raw
 - Foreign-Direct-Investment.pbix: Create Dashboard with Power BI
 
 ## Dashboard Preview
-- Summary Dashboard
-![summary-dashboard](/assets/dashboard.jpg)
-- Partner Dashboard
-- Provinces Dasboard
-- Industries Dashboard
+- Summary Dashboard:
+
+![Summary-Dashboard](/assets/Summary_Dashboard.png)
+
+- Partner Dashboard:
+
+![Partners-dashboard](/assets/Partners_Dashboard.png)
+
+- Provinces Dasboard:
+
+![Provinces-Dashboard](/assets/Provinces_Dashboard.png)
+
+- Industries Dashboard:
+
+![Industries-Dashboard](/assets/Industries_Dashboard.png)
 
 ## Additional Notes
 This project uses data from the followings source:  
