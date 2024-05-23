@@ -10,7 +10,7 @@ The report provides an overview of the foreign direct investment (FDI) situation
 - [Contact](#Contact)
 
 ## Project Structure
-'''
+```
 Foreign-Direct-Investment/
 ├── data/
 │   ├── data-raw/
@@ -29,7 +29,7 @@ Foreign-Direct-Investment/
 ├── Foreign-Direct-Investment.pbix
 ├── Foreign-Direct-Investment.pdf
 └── README.md
-'''
+```
 
 ## Additional Notes
 This project uses data from the followings source:  
