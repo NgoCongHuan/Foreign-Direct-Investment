@@ -1,12 +1,12 @@
 # Foreign Direct Investment in Viet Nam
 
 ## Description
-
 The report provides an overview of the foreign direct investment (FDI) situation in Vietnam from 2015 to 2022 and uses the ARIMA model to forecast for 2023 to 2025. The report emphasizes the significant role of FDI in promoting economic growth, expanding production scale, and improving Vietnam's trade balance.
 
 ## Table of Contents
-- [Project Structure](#project-structure)
-- [Additional Notes](#additional-notes)
+- [Project Structure](#Project-Structure)
+- [Dashboard Preview](#Dashboard-Preview)
+- [Additional Notes](#Additional-Notes)
 - [Contact](#Contact)
 
 ## Project Structure
@@ -27,9 +27,18 @@ Foreign-Direct-Investment/
 │   └── FDI-Provinces.ipynb
 ├── Foreign-Direct-Investment.docx
 ├── Foreign-Direct-Investment.pbix
-├── Foreign-Direct-Investment.pdf
 └── README.md
 ```
+Each .ipynb file in each category will process the raw data sets in the data-raw folder and produce the complete data sets in the data-clean folder.
+- Foreign-Direct-Investment.docx: Report file
+- Foreign-Direct-Investment.pbix: Create Dashboard with Power BI
+
+## Dashboard Preview
+- Summary Dashboard
+
+- Partner Dashboard
+- Provinces Dasboard
+- Industries Dashboard
 
 ## Additional Notes
 This project uses data from the followings source:  
