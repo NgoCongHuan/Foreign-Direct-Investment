@@ -35,7 +35,7 @@ Each .ipynb file in each category will process the raw data sets in the data-raw
 
 ## Dashboard Preview
 - Summary Dashboard
-
+![summary-dashboard](/assets/dashboard.jpg)
 - Partner Dashboard
 - Provinces Dasboard
 - Industries Dashboard
